@@ -1,0 +1,18 @@
+name: COVID19_CT
+description: A model to rapidly diagnose patients who are positive for
+             COVID-19 by integrating chest CT findings with clinical sympotoms
+             exposure history and laboratory testing
+cite:
+    - text: "Mei, Xueyan et al. Artificial intelligence–enabled rapid diagnosis of patients with COVID-19. Nat. Med. 2020."
+      doi: https://doi.org/10.1038/s41591-020-0931-3
+authors:
+  - Vasu Subeesh
+documentation: COVID19_CT.md
+tags: [cnn, pytorch, tensorflow, keras, lung, ct]
+license:
+
+format_version: 0.1.0
+language: python
+framework: pytorch
+
+covers: [covid19_ct.png]
