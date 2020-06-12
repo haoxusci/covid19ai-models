@@ -7,4 +7,5 @@ authors:
   - Shuai Wang et.al
 documentation: TianjinMUC.md
 tags: [Inception, covid19, ct]
-license: 
+license:
+covers: [TianjinMUC.png]
