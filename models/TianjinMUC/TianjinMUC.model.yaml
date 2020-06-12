@@ -1,0 +1,10 @@
+name: TianjinMUC
+description: Modified Inception migration neuro network that achieved an overall 89.5% accuracy for COVID19. A webpage that licenced healthcare personnel cann upload CT images for testing and validation, https://ai.nscc-tj.cn/thai/deploy/public/pneumonia_ct.
+cite:
+    - text: "Wang, Shuai et al. A deep learning algorithm using CT images to screen for Corona Virus 2 Disease (COVID-19). medrxiv 2020."
+      doi: https://doi.org/10.1101/2020.02.14.20023028
+authors:
+  - Shuai Wang et.al
+documentation: TianjinMUC.md
+tags: [Inception, covid19, ct]
+license: 
