@@ -1,0 +1,16 @@
+name: covid-tracker-react-native
+description: Based on symptom data collected from 2,618,862 by the COVID
+             Symptom Study smartphone-based app, a model combining symptoms to predict probable infection of COVID-19 virus was built and predited 17.42% participants are likely to have COVID-19. 
+cite:
+    - text: "Menni, C., Valdes, A.M., Freidin, M.B. et al. Real-time tracking of self-reported symptoms to predict potential COVID-19. Nat Med 2020."
+      doi: https://doi.org/10.1038/s41591-020-0916-2
+authors:
+  - Cristina Menni
+documentation: covid-tracker-react-native.md
+tags: [covid19]
+license: MIT
+
+format_version: 0.1.0
+language: python
+framework: pytorch
+covers: [covid-tracker-react-native.png]

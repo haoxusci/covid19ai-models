@@ -6,7 +6,7 @@ cite:
     - text: "Mei, Xueyan et al. Artificial intelligence–enabled rapid diagnosis of patients with COVID-19. Nat. Med. 2020."
       doi: https://doi.org/10.1038/s41591-020-0931-3
 authors:
-  - Vasu Subeesh
+  - Xueyan Mei et al.
 documentation: COVID19_CT.md
 tags: [cnn, pytorch, tensorflow, keras, lung, ct]
 license:
