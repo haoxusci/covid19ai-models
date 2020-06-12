@@ -7,5 +7,9 @@ authors:
   - Shuai Wang et.al
 documentation: TianjinMUC.md
 tags: [Inception, covid19, ct]
-license:
+license: None
+
+format_version: 0.1.0
+language: python
+framework: pytorch
 covers: [TianjinMUC.png]
