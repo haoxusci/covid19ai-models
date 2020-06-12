@@ -1,0 +1,16 @@
+name: RadLogics
+description: AI model to automate CT image analysis for detction,
+             quantification, and tracking of Covid19.
+cite:
+    - text: "Gozes, Ophir et al. Rapid AI Development Cycle for the Coronavirus (COVID-19) Pandemic: Initial Results for Automated Detection & Patient Monitoring using Deep Learning CT Image Analysisn. arxiv 2020."
+      doi: https://arxiv.org/abs/2003.05037
+authors:
+  - Ophir Gozes et.al
+documentation: RadLogics.md
+tags: [covid19, unet, resnet-50]
+license: MIT
+
+format_version: 0.1.0
+language: python
+framework: pytorch
+covers: [RadLogics.png]
