@@ -1,4 +1,4 @@
-name: COVID19_CT
+name: COVID19 CT
 description: A model to rapidly diagnose patients who are positive for
              COVID-19 by integrating chest CT findings with clinical sympotoms
              exposure history and laboratory testing
