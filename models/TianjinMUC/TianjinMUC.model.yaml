@@ -4,10 +4,18 @@ cite:
     - text: "Wang, Shuai et al. A deep learning algorithm using CT images to screen for Corona Virus 2 Disease (COVID-19). medrxiv 2020."
       doi: https://doi.org/10.1101/2020.02.14.20023028
 authors:
-  - Shuai Wang et.al
-documentation: TianjinMUC.md
-tags: [Inception, covid19, ct]
-license: MIT
+  - Shuai Wang
+  - Bo Kang
+  - Jinlu Ma
+  - Xianjun Zeng
+  - Mingming Xiao
+  - Jia Guo
+  - Mengjiao Cai
+  - Jingyi Yang
+  - Yaodong Li
+  - Xiangfei Meng
+  - Bo Xu
+tags: [Inception, covid19, CT]
 
 format_version: 0.1.0
 language: python

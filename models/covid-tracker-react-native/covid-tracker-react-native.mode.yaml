@@ -6,9 +6,27 @@ cite:
       doi: https://doi.org/10.1038/s41591-020-0916-2
 authors:
   - Cristina Menni
-documentation: covid-tracker-react-native.md
+  - Ana M. Valdes
+  -  Maxim B. Freidin
+  - Carole H. Sudre
+  - Long H. Nguyen
+  - David A. Drew
+  - Sajaysurya Ganesh
+  - Thomas Varsavsky
+  - M. Jorge Cardoso
+  - Julia S. El-Sayed Moustafa
+  - Alessia Visconti
+  - Pirro Hysi
+  - Ruth C. E. Bowyer
+  - Massimo Mangino
+  - Mario Falchi
+  - Jonathan Wolf
+  - Sebastien Ourselin
+  - Andrew T. Chan
+  - Claire J. Steves
+  - Tim D. Spector
+
 tags: [covid19]
-license: MIT
 
 format_version: 0.1.0
 language: python

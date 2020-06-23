@@ -5,10 +5,15 @@ cite:
     - text: "Gozes, Ophir et al. Rapid AI Development Cycle for the Coronavirus (COVID-19) Pandemic: Initial Results for Automated Detection & Patient Monitoring using Deep Learning CT Image Analysisn. arxiv 2020."
       doi: https://arxiv.org/abs/2003.05037
 authors:
-  - Ophir Gozes et.al
-documentation: RadLogics.md
-tags: [covid19, unet, resnet-50]
-license: MIT
+  - Ophir Gozes
+  - Maayan Frid-Adar
+  - Hayit Greenspan
+  - Patrick D. Browning
+  - Huangqi Zhang
+  - Wenbin Ji
+  - Adam Bernheim
+  - Eliot Siegel
+tags: [covid19, unet, resnet-50, CT]
 
 format_version: 0.1.0
 language: python
