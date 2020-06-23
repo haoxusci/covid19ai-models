@@ -1,4 +1,4 @@
-name: COVID19_CT
+name: COVID19 CT
 description: A model to rapidly diagnose patients who are positive for
              COVID-19 by integrating chest CT findings with clinical sympotoms
              exposure history and laboratory testing
@@ -40,4 +40,4 @@ format_version: 0.1.0
 language: python
 framework: pytorch
 
-covers: [covid19_ct.png]
+covers: [COVID19 CT.png]
