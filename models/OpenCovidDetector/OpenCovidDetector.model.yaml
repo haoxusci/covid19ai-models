@@ -24,4 +24,4 @@ tags: [covid19, CT]
 format_version: 0.1.0
 language: python
 framework: pytorch
-covers: [covid-tracker-react-native.png]
+covers: [OpenCovidDetector.png]
