@@ -1,0 +1,27 @@
+name: OpenCovidDetector
+description: We developed and evaluated our system on a large dataset with
+             more than 10 thousand CT volumes from COVID-19, influenza-A/B, nonviral community acquired pneumonia (CAP) and non-pneumonia subjects. In such a difficult multi-class diagnosis task, our deep convolutional neural network-based system is able to achieve an area under the receiver operating characteristic curve (AUC) of 97.17%, a sensitivity of 90.19%, and a specificity of 95.76% for COVID-19 on internal test cohort of 3,203 scans and AUC of 97.77% on the publicly available CC-CCII database with 1,943 test samples. In a reader study involving five radiologists, the AI system outperforms all of radiologists in more challenging tasks at a speed of two orders of magnitude above them. Diagnosis performance of chest x-ray (CXR) is compared.
+             Detailed interpretation of deep network is also performed to relate AI results with CT findings. The code is available at
+             https://github.com/ChenWWWeixiang/diagnosis_covid19. 
+cite:
+    - text: "Jin, C., Chen, W., Cao, Y., Xu, Z. et al. Development and Evaluation of an AI System for COVID-19 Diagnosis. MedRxiv 2020."
+      doi: https://doi.org/10.1101/2020.03.20.20039834
+authors:
+  - Cheng Jin
+  - Weixiang Chen
+  - Yukun Cao
+  - Zhanwei Xu
+  - Zimeng Tan
+  - Xin Zhang
+  - Lei Deng
+  - Chuansheng Zheng
+  - Jie Zhou
+  - Heshui Shi
+  - Jianjiang Feng
+
+tags: [covid19, CT]
+
+format_version: 0.1.0
+language: python
+framework: pytorch
+covers: [OpenCovidDetector.png]

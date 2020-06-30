@@ -1,0 +1,17 @@
+name: Cellpose
+description: We introduce a generalist, deep learning-based segmentation
+             algorithm called Cellpose, which can very precisely segment a wide range of image types outof-the-box and does not require model retraining or parameter adjustments. We trained Cellpose on a new dataset of highly-varied images of cells, containing over 70,000 segmented objects. To support community contributions to the training data, we developed software for manual labelling and for curation of the automated results, with optional direct upload to our data repository. Periodically retraining the model on the community-contributed data will ensure that Cellpose improves constantly. Code available in github https://github.com/mouseland/cellpose.
+cite:
+    - text: "Stringer, C., Michaelos, M., Pachitariu, M. Cellpose: a generalist algorithm for cellular segmentation. bioRxiv 2020."
+      doi:  https://doi.org/10.1101/2020.02.02.931238
+authors:
+  - Carsen Stringer
+  - Michalis Michaelos
+  - Marius Pachitariu
+
+tags: [segmentation]
+
+format_version: 0.1.0
+language: python
+framework: pytorch
+covers: [Cellpose.png]
